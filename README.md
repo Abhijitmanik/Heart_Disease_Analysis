@@ -20,7 +20,6 @@ The dataset used in this project contains the following columns:
 - **MaxHR**: Maximum heart rate achieved
 - **ExerciseAngina**: Exercise-induced angina (1 = yes, 0 = no)
 - **Oldpeak**: ST depression induced by exercise relative to rest
-- **ST_Slope**: Slope of the peak exercise ST segment
 - **HeartDisease**: Presence of heart disease (1 = yes, 0 = no)
 
 ## Analysis
@@ -35,9 +34,9 @@ The analysis was performed using Python libraries such as pandas and seaborn. So
 
 ## Files
 
-- `heart_disease_dataset.csv`: The dataset in CSV format.
-- `heart_disease_analysis.ipynb`: Jupyter Notebook containing the Python code for data analysis.
-- `heart_disease_analysis.html`: HTML version of the Jupyter Notebook for easier viewing.
+- `heart.csv`: The dataset in CSV format.
+- `heart_disease.ipynb`: Jupyter Notebook containing the Python code for data analysis.
+- `heart_disease.html`: HTML version of the Jupyter Notebook for easier viewing.
 
 ## Requirements
 
